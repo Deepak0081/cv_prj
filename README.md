@@ -8,3 +8,6 @@
 =>matplot to show the accuracy of the predicted number..
 
 =>sklearn and keras are used for training and getting accurate prediction of the recognized number.. 
+
+
+-->> have used a 1000 data set for each integer by which 99% accurate prediction is done..
