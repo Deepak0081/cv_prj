@@ -11,3 +11,6 @@
 
 
 -->> have used a 1000 data set for each integer by which 99% accurate prediction is done..
+
+
+for data set--> https://drive.google.com/file/d/1cZr91zzHl93H1cbmIwx_7upfQPPMPi33/view
